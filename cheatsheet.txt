@@ -1,0 +1,10 @@
+Cheat sheet
+ git add file.name
+ git status
+ git config --global user.email "thomas_engler@gmx.net"
+ git config --global user.name "ThomasEngler"
+ git commit
+ git commit -m "Done!"
+ git push
+ thomasengler
+ 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
